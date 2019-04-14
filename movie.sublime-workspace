@@ -1,0 +1,510 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vide",
+				"video_capture"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"pr",
+				"pro"
+			],
+			[
+				"c",
+				"countB"
+			],
+			[
+				"co",
+				"countA"
+			],
+			[
+				"fin",
+				"find_all"
+			],
+			[
+				"bs",
+				"bsObj"
+			],
+			[
+				"b",
+				"bsObj"
+			],
+			[
+				"p",
+				"page"
+			],
+			[
+				"ti",
+				"title_tag"
+			],
+			[
+				"f",
+				"find_all"
+			],
+			[
+				"s",
+				"sections"
+			],
+			[
+				"n",
+				"names"
+			],
+			[
+				"N",
+				"name_box"
+			],
+			[
+				"y",
+				"y_pred"
+			],
+			[
+				"sl",
+				"slope_and_intercept"
+			],
+			[
+				"m",
+				"m_x"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"e",
+				"exp"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"ge",
+				"getelem"
+			],
+			[
+				"get",
+				"getelem"
+			],
+			[
+				"d",
+				"Display"
+			],
+			[
+				"top",
+				"top2"
+			],
+			[
+				"t",
+				"top1"
+			],
+			[
+				"to",
+				"top2"
+			],
+			[
+				"a2",
+				"a2i"
+			],
+			[
+				"o",
+				"Object"
+			],
+			[
+				"th",
+				"the"
+			],
+			[
+				"the",
+				"then"
+			],
+			[
+				"ma",
+				"Main"
+			],
+			[
+				"te",
+				"temp2"
+			],
+			[
+				"temp",
+				"temp2"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"nu",
+				"num1"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"new",
+				"new_Node"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"fo",
+				"found"
+			],
+			[
+				"tem",
+				"temp1"
+			],
+			[
+				"st",
+				"start1"
+			],
+			[
+				"inp",
+				"inp1"
+			],
+			[
+				"cur",
+				"currX"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"T",
+				"t"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/shreyash/Desktop/pythonprac/facetracker/facet.py",
+		"/home/shreyash/Desktop/pythonprac/facetracker/BnW.py",
+		"/home/shreyash/Desktop/pythonprac/facetracker/haarcascade_.xml",
+		"/home/shreyash/Desktop/pythonprac/imgdown.py",
+		"/home/shreyash/Flask/templates/index.html",
+		"/home/shreyash/Flask/static/style.css",
+		"/home/shreyash/Flask/app.py",
+		"/home/shreyash/Flask/IITH-FC/app.py",
+		"/home/shreyash/Desktop/pythonprac/facetracker/test.py",
+		"/home/shreyash/Flask/post.py",
+		"/home/shreyash/Flask/templates/about.html",
+		"/home/shreyash/Flask/IITH-FC/capp.py",
+		"/home/shreyash/screen-4.6.2/input.c",
+		"/home/shreyash/Flask/Templates/index.html",
+		"/home/shreyash/Desktop/pythonprac/app.py",
+		"/home/shreyash/Desktop/reddit.py",
+		"/home/shreyash/Desktop/code/914A.cpp",
+		"/home/shreyash/Desktop/code/naichef.cpp",
+		"/home/shreyash/Desktop/TO DO/oops.cpp",
+		"/home/shreyash/Desktop/brwsr.py",
+		"/home/shreyash/Desktop/pythonprac/mail1.py",
+		"/home/shreyash/Desktop/write.py",
+		"/home/shreyash/Desktop/pythonprac/mail.py",
+		"/home/shreyash/Desktop/untitled.m",
+		"/home/shreyash/Desktop/fblogin.py",
+		"/home/shreyash/Desktop/mail.py",
+		"/home/shreyash/Desktop/web_scraping/untitled.py",
+		"/home/shreyash/Desktop/web_scraping/wiki.py",
+		"/home/shreyash/Desktop/web_scraping/3.py",
+		"/home/shreyash/Desktop/web_scraping/movie.py",
+		"/home/shreyash/Desktop/web_scraping/2.py",
+		"/home/shreyash/Desktop/web_scraping/kb.py",
+		"/home/shreyash/Desktop/web_scraping/1.py",
+		"/home/shreyash/Desktop/web_scraping/madrid.py",
+		"/home/shreyash/Desktop/web_scraping/eq.py",
+		"/home/shreyash/Desktop/web_scraping/kshmr.py",
+		"/home/shreyash/Desktop/web_scraping/sumanasa.py",
+		"/home/shreyash/Desktop/web_scraping/wthr.py",
+		"/home/shreyash/Desktop/web_scraping/news.py",
+		"/home/shreyash/Desktop/web_scraping/test.py",
+		"/home/shreyash/Desktop/web_scraping/url.py",
+		"/home/shreyash/Desktop/logisticreg.py",
+		"/home/shreyash/Desktop/img_rec/imgrec.py",
+		"/home/shreyash/Desktop/pythonprac/shader.py",
+		"/home/shreyash/Desktop/lr.py",
+		"/home/shreyash/Desktop/CS229(2008)/Psets/p1.py",
+		"/home/shreyash/Desktop/PSET1/untitled.py",
+		"/home/shreyash/Desktop/textest.py",
+		"/home/shreyash/Desktop/pythonprac/python-list.py",
+		"/home/shreyash/Desktop/linreg.py",
+		"/home/shreyash/Desktop/pythonprac/fac.py",
+		"/home/shreyash/Desktop/ML_books/t1.py",
+		"/home/shreyash/Desktop/sentdex_img_rec/imgrec.py",
+		"/home/shreyash/Desktop/sentdex_img_rec/i1.py",
+		"/home/shreyash/Desktop/lin.py",
+		"/home/shreyash/Desktop/maxsubarr",
+		"/home/shreyash/Desktop/oops.cpp",
+		"/home/shreyash/Desktop/a1.cpp",
+		"/home/shreyash/Desktop/parser_default",
+		"/home/shreyash/Desktop/Parser/CoolParser.g4",
+		"/home/shreyash/Desktop/parser_sukrut",
+		"/home/shreyash/Desktop/Parser_manocha",
+		"/home/shreyash/Desktop/parser_akshita",
+		"/home/shreyash/Desktop/akshita/2. Lexer/src/test_cases/hello8.cl",
+		"/home/shreyash/Desktop/akshita/2. Lexer/src/test_cases/hello7.cl",
+		"/home/shreyash/Desktop/akshita/2. Lexer/src/test_cases/hello6.cl",
+		"/home/shreyash/Desktop/akshita/2. Lexer/src/test_cases/hello5.cl",
+		"/home/shreyash/Desktop/akshita/2. Lexer/src/test_cases/hello4.cl",
+		"/home/shreyash/Desktop/akshita/2. Lexer/src/test_cases/hello2.cl",
+		"/home/shreyash/Desktop/akshita/2. Lexer/src/test_cases/hello1.cl",
+		"/home/shreyash/Desktop/asn2/lexer/src/test_cases/d.cl",
+		"/home/shreyash/Desktop/asn2/lexer/src/test_cases/c.cl",
+		"/home/shreyash/Desktop/asn2/lexer/src/test_cases/b.cl",
+		"/home/shreyash/Desktop/asn2/lexer/src/test_cases/a.cl",
+		"/home/shreyash/Desktop/asn2/lexer/src/test_cases/e.cl",
+		"/home/shreyash/.cache/.fr-sJeua0/lexer/src/grammar/CoolLexer.g4",
+		"/home/shreyash/Desktop/akshita/2. Lexer/src/test_cases/hello3.cl",
+		"/home/shreyash/Desktop/test case/helloworld.cl",
+		"/home/shreyash/Desktop/akshita/2. Lexer/src/test_cases/helloworld.cl",
+		"/home/shreyash/Desktop/code/q.cpp",
+		"/home/shreyash/Desktop/code/con.cpp",
+		"/home/shreyash/Desktop/code/1.cpp",
+		"/home/shreyash/Desktop/code/fft.cpp",
+		"/home/shreyash/Desktop/manocha",
+		"/home/shreyash/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/shreyash/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/shreyash/Desktop/shader.py",
+		"/home/shreyash/Lemmas/postfix.cpp",
+		"/home/shreyash/Introductory DS/linkedlist.cpp",
+		"/home/shreyash/DS ASSGN/MinHeap.c",
+		"/home/shreyash/Desktop/Algorithms/mergesort.c",
+		"/home/shreyash/DS ASSGN/prim.c",
+		"/home/shreyash/Desktop/sti.cl",
+		"/home/shreyash/Music/te.cl",
+		"/home/shreyash/Desktop/A0_compilers/e1.cl",
+		"/home/shreyash/Desktop/intro to ds_lab/es16btech11002_Q1.cpp",
+		"/home/shreyash/Desktop/square.cl",
+		"/home/shreyash/Desktop/soc.cl",
+		"/home/shreyash/Desktop/intro to ds_lab/es16btech11002_Q02.cpp",
+		"/home/shreyash/Desktop/es16btech11002_A4_Q1.cpp",
+		"/home/shreyash/DS ASSGN/Btree.c",
+		"/home/shreyash/Desktop/es16btech11002_Q02.cpp",
+		"/home/shreyash/Desktop/1.cpp",
+		"/home/shreyash/Desktop/es16btech11002_Q1.cpp",
+		"/home/shreyash/Desktop/es16btech11002.cpp",
+		"/home/shreyash/Desktop/q.cpp",
+		"/home/shreyash/DS ASSGN/kruskal.c",
+		"/home/shreyash/Lemmas/heapsort.c",
+		"/home/shreyash/Desktop/b.cpp",
+		"/home/shreyash/SEM3/intro to programming/SelectionSort.c",
+		"/home/shreyash/Desktop/101532A.cpp",
+		"/home/shreyash/Desktop/101532B.cpp",
+		"/home/shreyash/Desktop/fft.cpp",
+		"/home/shreyash/Sorting Algo/InsertionSort.cpp",
+		"/home/shreyash/Introductory DS/Quicksort.c",
+		"/home/shreyash/Sorting Algo/mergesort.c",
+		"/home/shreyash/intro to programming/mymath.c",
+		"/home/shreyash/Desktop/a.cpp",
+		"/home/shreyash/Desktop/es16btech11002_problem1.c",
+		"/home/shreyash/Desktop/B.c",
+		"/home/shreyash/Desktop/InsertionSort.cpp",
+		"/home/shreyash/Desktop/es16btech11002_problem2.c",
+		"/home/shreyash/SEM3/intro to programming/Assignment 2/SelectionSort.c",
+		"/home/shreyash/Desktop/hotplate.py",
+		"/home/shreyash/Desktop/x.c",
+		"/home/shreyash/Desktop/914A.cpp",
+		"/home/shreyash/SEM3/intro to programming/Assignment 2/3b.c",
+		"/home/shreyash/Introductory DS/bubblesort.c"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"video_capture",
+			"tr",
+			"y",
+			"x",
+			"newString",
+			"notfound",
+			"text",
+			"dvdvd",
+			"addthis",
+			"heli",
+			"temp2",
+			"temp",
+			"getelem",
+			"get",
+			"getelem",
+			"next",
+			"getnext",
+			"temp2",
+			"A2I",
+			"a2i",
+			"a2iobj",
+			"tval",
+			"display",
+			"run",
+			"rows",
+			"input1",
+			"node",
+			"int",
+			"M_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"long long"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "movie.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
